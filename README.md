@@ -1,7 +1,7 @@
 ☕ Sales & Finance Analytics – Coffee Shop Sales Dashboard  
 
 I developed a Sales Performance & Finance Dashboard to analyze customer behavior, sales patterns, and financial outcomes.  
-This dashboard provides actionable insights into sales trends, product performance, and store-level revenue, helping decision-makers optimize resource allocation** and **business strategies.  
+This dashboard provides actionable insights into sales trends, product performance, and store-level revenue, helping decision-makers optimize resource allocation and business strategies.  
 
 <img width="1572" height="648" alt="COFFE SHOP SS 2" src="https://github.com/user-attachments/assets/401b6d6e-2db0-4666-aeff-50e0599b459c" />
 
