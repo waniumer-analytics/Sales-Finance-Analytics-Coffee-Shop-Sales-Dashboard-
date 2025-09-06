@@ -69,6 +69,6 @@ TOOLS AND TECHNIWUES USED
 
  Project Links  
 -  Porfolio link:-:
-- LinkedIn Profile:
+- LinkedIn Profile:- www.linkedin.com/in/waniumer-analytics
 
 
